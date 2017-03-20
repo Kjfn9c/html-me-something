@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    font-size: 75%;
+    background-color: rgb(221,221,221);
+    width: 90%;
+    text-align: center;
+
+}
+header, main {
+    background-color: rgb(221,221,221);
+    font-size: 2em;
+    text-align: center;
+}
+figure {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: block;
+}
+figcaption {
+    font-style: italic;
+    text-align: center;
+}
+header {
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+h2, h3, h4 {
+    font-size: 150%;
+    text-align: left;
+    list-style: georgian;
+
+}
+footer {
+    text-align: right;
+    font-size: 75%;
+    background-color: lightblue;
+}
+ul {
+    list-style: none;
+}
